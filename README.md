@@ -1,10 +1,5 @@
-- 👋 Hi, I’m Pakhi Singha
-- 👀 I’m interested in ...
-- 🌱 I’m learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Pakhi-Singha/Pakhi-Singha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m Pakhi Singha.  
+- 👀 I’m interested in ML, app and game development, cybersecurity, and data analysis.  
+- 🌱 I’m learning neural networks, 3D modeling, and database engineering.  
+- 💞️ I’m looking to collaborate on AI-driven applications, open-source projects, and RPGs.  
+- 📫 How to reach me: pakhisingha15@gmail.com  
